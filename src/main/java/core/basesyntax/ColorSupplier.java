@@ -10,4 +10,3 @@ public class ColorSupplier {
         return values[rand];
     }
 }
-
